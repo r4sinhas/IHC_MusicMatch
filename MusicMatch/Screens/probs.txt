@@ -1,0 +1,10 @@
+prob identificado:
+    remover os cards (matches page)
+        esta a remover por ordem decrescente (makes sense q comece no 4)
+
+            SOL:
+                how go get id of that exac card
+        PINTAR DE BRANCO (BUTT NOT WORKING)
+
+    add remove button to remove song/music        
+        check to do list and copiar (pretty much)

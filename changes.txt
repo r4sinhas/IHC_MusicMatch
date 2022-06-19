@@ -1,0 +1,3 @@
+Changes:
+	Added number of testers to slides  (24);
+	Added work distribution to slides.

@@ -1,0 +1,18 @@
+tem as 3 paginas principais
+    currently trying to make Login one pretty
+yeah
+
+
+RELEVANT - Estou a seguir este tut https://www.youtube.com/watch?v=qJaFIGjyRms
+    mas saltei a parte da autenticação do google + umas merdas
+
+
+
+THE FUCKING MODALS no profile are fucked -> FIX!
+a pagina do perfil q "tá feita" é a de quando ja tens acc criada
+
+TO DO: 
+    PAGINA DE REGISTO (ProfileScreen_1)
+    Fix modals perfil
+    imagem login and stuff esteticas
+    HOME PAGE
